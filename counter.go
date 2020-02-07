@@ -1,7 +1,7 @@
 package main
 
 import (
-	"encoding/xml"
+	"encoding/xml" //test
 	"fmt"
 	"io/ioutil"
 	"log"
